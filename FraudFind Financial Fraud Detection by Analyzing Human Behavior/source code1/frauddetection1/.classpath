@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry exported="true" kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8">
+		<attributes>
+			<attribute name="owner.project.facets" value="java"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry exported="true" kind="con" path="org.eclipse.jst.j2ee.internal.web.container"/>
+	<classpathentry exported="true" kind="con" path="org.eclipse.jst.j2ee.internal.module.container"/>
+	<classpathentry exported="true" kind="lib" path="F:/apache-tomcat-6.0.18/lib/activation.jar"/>
+	<classpathentry exported="true" kind="lib" path="F:/apache-tomcat-6.0.18/lib/annotations-api.jar"/>
+	<classpathentry exported="true" kind="lib" path="F:/apache-tomcat-6.0.18/lib/catalina.jar"/>
+	<classpathentry exported="true" kind="lib" path="F:/apache-tomcat-6.0.18/lib/catalina-ant.jar"/>
+	<classpathentry exported="true" kind="lib" path="F:/apache-tomcat-6.0.18/lib/catalina-ha.jar"/>
+	<classpathentry exported="true" kind="lib" path="F:/apache-tomcat-6.0.18/lib/catalina-tribes.jar"/>
+	<classpathentry exported="true" kind="lib" path="F:/apache-tomcat-6.0.18/lib/commons-beanutils-1.7.0.jar"/>
+	<classpathentry exported="true" kind="lib" path="F:/apache-tomcat-6.0.18/lib/commons-collections-3.1.jar"/>
+	<classpathentry exported="true" kind="lib" path="F:/apache-tomcat-6.0.18/lib/commons-dbcp-1.2.1.jar"/>
+	<classpathentry exported="true" kind="lib" path="F:/apache-tomcat-6.0.18/lib/commons-digester-1.8.jar"/>
+	<classpathentry exported="true" kind="lib" path="F:/apache-tomcat-6.0.18/lib/commons-fileupload-1.2.1.jar"/>
+	<classpathentry exported="true" kind="lib" path="F:/apache-tomcat-6.0.18/lib/commons-io-1.3.2.jar"/>
+	<classpathentry exported="true" kind="lib" path="F:/apache-tomcat-6.0.18/lib/commons-logging-1.1.jar"/>
+	<classpathentry exported="true" kind="lib" path="F:/apache-tomcat-6.0.18/lib/commons-pool-1.2.jar"/>
+	<classpathentry exported="true" kind="lib" path="F:/apache-tomcat-6.0.18/lib/cos.jar"/>
+	<classpathentry exported="true" kind="lib" path="F:/apache-tomcat-6.0.18/lib/dsn.jar"/>
+	<classpathentry exported="true" kind="lib" path="F:/apache-tomcat-6.0.18/lib/el-api.jar"/>
+	<classpathentry exported="true" kind="lib" path="F:/apache-tomcat-6.0.18/lib/freemarker-2.3.13.jar"/>
+	<classpathentry exported="true" kind="lib" path="F:/apache-tomcat-6.0.18/lib/imap.jar"/>
+	<classpathentry exported="true" kind="lib" path="F:/apache-tomcat-6.0.18/lib/jasper.jar"/>
+	<classpathentry exported="true" kind="lib" path="F:/apache-tomcat-6.0.18/lib/jasper-el.jar"/>
+	<classpathentry exported="true" kind="lib" path="F:/apache-tomcat-6.0.18/lib/jasper-jdt.jar"/>
+	<classpathentry exported="true" kind="lib" path="F:/apache-tomcat-6.0.18/lib/javax.servlet-3.0.jar"/>
+	<classpathentry exported="true" kind="lib" path="F:/apache-tomcat-6.0.18/lib/jcommon.jar"/>
+	<classpathentry exported="true" kind="lib" path="F:/apache-tomcat-6.0.18/lib/jcommon-1.0.16.jar"/>
+	<classpathentry exported="true" kind="lib" path="F:/apache-tomcat-6.0.18/lib/jcommon-1.0.17-javadoc.jar"/>
+	<classpathentry exported="true" kind="lib" path="F:/apache-tomcat-6.0.18/lib/jfreechart.jar"/>
+	<classpathentry exported="true" kind="lib" path="F:/apache-tomcat-6.0.18/lib/jfreechart-1.0.9.jar"/>
+	<classpathentry exported="true" kind="lib" path="F:/apache-tomcat-6.0.18/lib/json-lib-2.3-jdk15.jar"/>
+	<classpathentry exported="true" kind="lib" path="F:/apache-tomcat-6.0.18/lib/jsp-api.jar"/>
+	<classpathentry exported="true" kind="lib" path="F:/apache-tomcat-6.0.18/lib/junit-3.8.1.jar"/>
+	<classpathentry exported="true" kind="lib" path="F:/apache-tomcat-6.0.18/lib/log4j-1.2.14.jar"/>
+	<classpathentry exported="true" kind="lib" path="F:/apache-tomcat-6.0.18/lib/mail.jar"/>
+	<classpathentry exported="true" kind="lib" path="F:/apache-tomcat-6.0.18/lib/mail-1.4.1.jar"/>
+	<classpathentry exported="true" kind="lib" path="F:/apache-tomcat-6.0.18/lib/mailapi.jar"/>
+	<classpathentry exported="true" kind="lib" path="F:/apache-tomcat-6.0.18/lib/mongo-java-driver-2.10.1.jar"/>
+	<classpathentry exported="true" kind="lib" path="F:/apache-tomcat-6.0.18/lib/multipartrequest.jar"/>
+	<classpathentry exported="true" kind="lib" path="F:/apache-tomcat-6.0.18/lib/mysql-connector-java-3.1.14-bin.jar"/>
+	<classpathentry exported="true" kind="lib" path="F:/apache-tomcat-6.0.18/lib/mysql-connector-java-5.0.4-bin.jar"/>
+	<classpathentry exported="true" kind="lib" path="F:/apache-tomcat-6.0.18/lib/mysql-connector-java-5.0.6.jar"/>
+	<classpathentry exported="true" kind="lib" path="F:/apache-tomcat-6.0.18/lib/mysql-connector-java-5.0.6-bundle.jar"/>
+	<classpathentry exported="true" kind="lib" path="F:/apache-tomcat-6.0.18/lib/mysql-connector-java-5.0.6-sources.jar"/>
+	<classpathentry exported="true" kind="lib" path="F:/apache-tomcat-6.0.18/lib/ognl-2.6.11.jar"/>
+	<classpathentry exported="true" kind="lib" path="F:/apache-tomcat-6.0.18/lib/pager-taglib.jar"/>
+	<classpathentry exported="true" kind="lib" path="F:/apache-tomcat-6.0.18/lib/pop3.jar"/>
+	<classpathentry exported="true" kind="lib" path="F:/apache-tomcat-6.0.18/lib/servlet-api.jar"/>
+	<classpathentry exported="true" kind="lib" path="F:/apache-tomcat-6.0.18/lib/smtp.jar"/>
+	<classpathentry exported="true" kind="lib" path="F:/apache-tomcat-6.0.18/lib/spring-test-2.5.6.jar"/>
+	<classpathentry exported="true" kind="lib" path="F:/apache-tomcat-6.0.18/lib/struts2-convention-plugin-2.2.1.jar"/>
+	<classpathentry exported="true" kind="lib" path="F:/apache-tomcat-6.0.18/lib/struts2-core-2.2.1.jar"/>
+	<classpathentry exported="true" kind="lib" path="F:/apache-tomcat-6.0.18/lib/struts2-json-plugin-2.2.1.jar"/>
+	<classpathentry exported="true" kind="lib" path="F:/apache-tomcat-6.0.18/lib/struts2-tiles-plugin-2.1.8.jar"/>
+	<classpathentry exported="true" kind="lib" path="F:/apache-tomcat-6.0.18/lib/tiles-api-2.1.2.jar"/>
+	<classpathentry exported="true" kind="lib" path="F:/apache-tomcat-6.0.18/lib/tiles-compat-2.1.2.jar"/>
+	<classpathentry exported="true" kind="lib" path="F:/apache-tomcat-6.0.18/lib/tiles-core-2.1.2.jar"/>
+	<classpathentry exported="true" kind="lib" path="F:/apache-tomcat-6.0.18/lib/tiles-jsp-2.1.2.jar"/>
+	<classpathentry exported="true" kind="lib" path="F:/apache-tomcat-6.0.18/lib/tiles-servlet-2.1.2.jar"/>
+	<classpathentry exported="true" kind="lib" path="F:/apache-tomcat-6.0.18/lib/tomcat-coyote.jar"/>
+	<classpathentry exported="true" kind="lib" path="F:/apache-tomcat-6.0.18/lib/tomcat-dbcp.jar"/>
+	<classpathentry exported="true" kind="lib" path="F:/apache-tomcat-6.0.18/lib/tomcat-i18n-es.jar"/>
+	<classpathentry exported="true" kind="lib" path="F:/apache-tomcat-6.0.18/lib/tomcat-i18n-fr.jar"/>
+	<classpathentry exported="true" kind="lib" path="F:/apache-tomcat-6.0.18/lib/tomcat-i18n-ja.jar"/>
+	<classpathentry exported="true" kind="lib" path="F:/apache-tomcat-6.0.18/lib/xwork-core-2.2.1.jar"/>
+	<classpathentry kind="output" path="build/classes"/>
+</classpath>
